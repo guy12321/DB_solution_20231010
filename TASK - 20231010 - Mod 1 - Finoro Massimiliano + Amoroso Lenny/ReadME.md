@@ -9,6 +9,6 @@
 1. File "DDL.sql"  
    Questo file contiene tutte le query SQL per la creazione del DB e delle sue tabelle.
 2. File "DML.sql"  
-   Questo file contiene tutte le query per la popolazione delle varie tabelle.
+   Questo file contiene tutte le query SQL per la popolazione delle varie tabelle.
 3. File "DQL.sql"  
-   Questo file contiene la query per rispondere al quesito finale proposto nel task.
+   Questo file contiene la query SQL per rispondere al quesito finale proposto nel task.
