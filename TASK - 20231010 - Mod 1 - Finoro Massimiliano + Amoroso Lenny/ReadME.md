@@ -5,7 +5,7 @@
 * Amoroso Lenny Carlo
 * Finoro Massimiliano
 
-## Stiamo scrivendo questo file per indicare quali file .sql fanno cosa:
+## Stiamo scrivendo questo file per indicare quali file ".sql" fanno cosa:
 1. File "DDL.sql"  
    Questo file contiene tutte le query SQL per la creazione del DB e delle sue tabelle.
 2. File "DML.sql"  
